@@ -1,5 +1,5 @@
 ---
-layout: default
-title: Home
+layout: home
 permalink: /home/
+pageOrder: 1
 ---
