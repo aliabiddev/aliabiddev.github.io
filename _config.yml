@@ -38,7 +38,7 @@ show_excerpts: true
 excerpt_separator: <!-- excerpt-end -->
 
 # Google Analytics
-google_analytics: G-RD5DDT6WQX
+google_analytics: UA-194867527-1
 
 
 # Exclude from processing.
