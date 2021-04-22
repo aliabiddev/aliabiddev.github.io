@@ -21,7 +21,7 @@
 title: Thinking slightly blog
 email: info@thinkingslightly.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An exploration into the creative arts
+  Thinking Slightly &copy; 2021
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
