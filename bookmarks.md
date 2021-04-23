@@ -24,5 +24,7 @@ requires curl to be installed-
 sudo apt-get install curl
 
 
+Windows Subsystem for Linux Documentation
+<https://docs.microsoft.com/en-us/windows/wsl/>
 
 
