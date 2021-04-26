@@ -5,4 +5,5 @@ permalink: /about/
 pageOrder: 10
 ---
 
-Experimental site to capture ideas while thinking slightly.
+blog posts related to software development, technology and other things.
+
